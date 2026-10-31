@@ -1,0 +1,28 @@
+{
+  "ucp": {
+    "version": "2026-08-25",
+    "capabilities": {
+      "dev.ucp.shopping.catalog.search": [
+        {
+          "version": "2026-08-25"
+        }
+      ],
+      "dev.ucp.shopping.catalog.lookup": [
+        {
+          "version": "2026-08-25"
+        }
+      ]
+    }
+  },
+  "keys": [
+    {
+      "crv": "P-256",
+      "kty": "EC",
+      "x": "tjNfdFKQN0cuwfl8uGkb-eSh5WSUE0_LmAqM2k4fTRc",
+      "y": "qkBaGwE9c9uCFBcDbyimYvY7-L-dy6Uenq0kDaG5ddk",
+      "kid": "5aD780pE3gatjsyhM1hVevpHEDgfyqP5IiEjVwayZNs",
+      "use": "sig",
+      "alg": "ES256"
+    }
+  ]
+}
