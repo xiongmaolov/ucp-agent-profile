@@ -29,6 +29,14 @@
       "kid": "5aD780pE3gatjsyhM1hVevpHEDgfyqP5IiEjVwayZNs",
       "use": "sig",
       "alg": "ES256"
+    },
+    {
+      "crv": "Ed25519",
+      "kty": "OKP",
+      "x": "FFxr4_LE2X3l4w7ZcWc_kMP-MdFWzC9aovc_tRmaZO4",
+      "kid": "iLemuRcl9jvPujX5jjo450m6yC49vvRfDYz-CPX4pl8",
+      "use": "sig",
+      "alg": "EdDSA"
     }
   ],
   "signing_keys": [
@@ -40,6 +48,14 @@
       "kid": "5aD780pE3gatjsyhM1hVevpHEDgfyqP5IiEjVwayZNs",
       "use": "sig",
       "alg": "ES256"
+    },
+    {
+      "crv": "Ed25519",
+      "kty": "OKP",
+      "x": "FFxr4_LE2X3l4w7ZcWc_kMP-MdFWzC9aovc_tRmaZO4",
+      "kid": "iLemuRcl9jvPujX5jjo450m6yC49vvRfDYz-CPX4pl8",
+      "use": "sig",
+      "alg": "EdDSA"
     }
   ]
 }
